@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1700627507 source:/home/leon/dev/cpp/book_Cpp17/main.cpp
+	<iostream>
+	"clTutPair.h"
+	"clTutScope.h"
+	"clExplicit.h"
+	"clSwitchTest.h"
+	"clFsmTable.h"
+
+1700252765 /home/leon/dev/cpp/book_Cpp17/clTutPair.h
+
+1700253025 source:/home/leon/dev/cpp/book_Cpp17/clTutPair.cpp
+	"clTutPair.h"
+	<iostream>
+	<tuple>
+	<vector>
+	<map>
+	<chrono>
+
+1700323395 /home/leon/dev/cpp/book_Cpp17/clTutScope.h
+
+1700330738 source:/home/leon/dev/cpp/book_Cpp17/clTutScope.cpp
+	"clTutScope.h"
+	<iostream>
+	<tuple>
+	<vector>
+	<map>
+
+1700351257 /home/leon/dev/cpp/book_Cpp17/clExplicit.h
+
+1700350491 source:/home/leon/dev/cpp/book_Cpp17/clExplicit.cpp
+	"clExplicit.h"
+	<iostream>
+
+1700524047 /home/leon/dev/cpp/book_Cpp17/clSwitchTest.h
+
+1700524120 source:/home/leon/dev/cpp/book_Cpp17/clSwitchTest.cpp
+	"clSwitchTest.h"
+	<iostream>
+	<stdio.h>
+	<string>
+
+1700628597 source:/home/leon/dev/cpp/book_Cpp17/clFsmTable.cpp
+	"clFsmTable.h"
+	<iostream>
+	<stdio.h>
+	<string>
+
+1700627900 /home/leon/dev/cpp/book_Cpp17/clFsmTable.h
+
